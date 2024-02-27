@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=waving&text=anirlos proflie!)
